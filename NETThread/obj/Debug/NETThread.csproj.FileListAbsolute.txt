@@ -1,0 +1,8 @@
+H:\01_github\.NETThread\NETThread\bin\Debug\NETThread.exe.config
+H:\01_github\.NETThread\NETThread\bin\Debug\NETThread.exe
+H:\01_github\.NETThread\NETThread\bin\Debug\NETThread.pdb
+H:\01_github\.NETThread\NETThread\obj\Debug\NETThread.csproj.AssemblyReference.cache
+H:\01_github\.NETThread\NETThread\obj\Debug\NETThread.csproj.SuggestedBindingRedirects.cache
+H:\01_github\.NETThread\NETThread\obj\Debug\NETThread.csproj.CoreCompileInputs.cache
+H:\01_github\.NETThread\NETThread\obj\Debug\NETThread.exe
+H:\01_github\.NETThread\NETThread\obj\Debug\NETThread.pdb
