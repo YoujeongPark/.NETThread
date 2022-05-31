@@ -55,7 +55,9 @@ internal class Program
             "2. Thread + Lambda \n" +
             "3. Thread 실행 Polling + Abort\n" +
             "4. Thread 실행 Polling  + Interrupt\n" +
-            "5. Thread 실행 Lock \n");
+            "5. Thread 실행 Lock \n" +
+            "6. Multi Threading \n"
+            );
 
             int inputNumber = Int32.Parse(Console.ReadLine());
             switch (inputNumber)
